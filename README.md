@@ -16,7 +16,8 @@
 - Identificação de perfis de risco: Através da análise dos dados, foram identificados perfis de clientes com maior probabilidade de inadimplência, possibilitando a criação de estratégias direcionadas para cada perfil.
 
 
-
+## Demonstração
+[https://www.kaggle.com/code/herculeshs/projeto-analise-credito-clientes-negativados](https://www.kaggle.com/code/herculeshs/projeto-analise-credito-clientes-negativados)
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
